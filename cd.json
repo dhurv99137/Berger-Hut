@@ -1,0 +1,124 @@
+{
+  "Feedback": [
+    {
+      "id": "8ae3",
+      "name": "ravi",
+      "Feedback": " Berger Hut's culinary delights are simply irresistible. From the classic Cheeseburger with its juicy beef patty and melty cheese to the Veggie Delight, a flavorful blend of fresh veggies, each bite is a journey of satisfaction. And let's not forget the Spicy BBQ Burger, a fiery masterpiece featuring grilled chicken, spicy BBQ sauce, and crispy onion rings. Berger Hut's burgers are a testament to quality ingredients and expert craftsmanship, leaving taste buds craving for more.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDlAhLlHS0za1nYJ5cmgWvnmC8HzuM4NBbQ&usqp=CAU"
+    },
+    {
+      "id": "0f26",
+      "name": "mahi",
+      "Feedback": "I recently had the pleasure of dining at Burger Hut, and I must say, it was a taste bud explosion! The star of the show was undoubtedly the Blaze Bomb Burger, a fiery creation that left me craving The Blaze Bomb Burger, boasting a spicy BBQ sauce, delivered a punch of flavor with every bite. The perfectly grilled patty combined with the tangy sauce created a harmonious symphony of flavors that danced on my palate. The spice level was just right, adding an exciting kick without overpowering the other ingredients.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfsR1j5c5rh3Or62MF39b1EffRT1nXnqN4BQ&usqp=CAU"
+    },
+    {
+      "id": "9fce",
+      "name": "Aarav",
+      "Feedback": "Sometimes, the simplest pleasures in life are the most satisfying, and that's precisely what I experienced at Burger Hut with their Classic Cheeseburger.  Nestled between two fluffy buns, the Classic Cheeseburger was a nostalgic nod to the timeless American favorite. The juicy beef patty, cooked to perfection, was generously topped with melted cheese, lettuce, tomato, pickles, and a smear of tangy sauce. Each bite was a symphony of flavors, with the savory meat harmonizing with the creamy cheese and crisp vegetables.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG5CPz89vwuDB4H5EsXhkpKz0_koS-0HK0Yg&usqp=CAU"
+    }
+  ],
+  "new-menu": [
+    {
+      "id": "def1",
+      "name": "Berger Hut Supreme Burge",
+      "Price": "499",
+      "image": "http://127.0.0.1:5500/images/burger%209.jpg"
+    },
+    {
+      "id": "7cb2",
+      "name": "Garden Fresh Burger",
+      "Price": "349",
+      "image": "http://127.0.0.1:5500/images/burger%206.jpg"
+    },
+    {
+      "id": "2523",
+      "name": "classic cheeseburger",
+      "Price": "399",
+      "image": "http://127.0.0.1:5500/images/burger%205.jpg"
+    },
+    {
+      "id": "edfd",
+      "name": "Blaze Bomb Burger(spicy BBQ)",
+      "Price": "275",
+      "image": "http://127.0.0.1:5500/images/burger%208.jpg"
+    },
+    {
+      "id": "2ed3",
+      "name": "Prime Time Burger",
+      "Price": "75",
+      "image": "http://127.0.0.1:5500/images/burger%203.jpg"
+    },
+    {
+      "id": "3f1f",
+      "name": "Royale Burger",
+      "Price": "99",
+      "image": "http://127.0.0.1:5500/images/burger%204.jpg"
+    },
+    {
+      "id": "7d57",
+      "name": "Tater Twisters",
+      "Price": "49",
+      "image": "http://127.0.0.1:5500/images/fresh.jpg"
+    },
+    {
+      "id": "bbb0",
+      "name": "cocacola",
+      "Price": "29",
+      "image": "http://127.0.0.1:5500/images/cok.jpg"
+    },
+    {
+      "id": "9444",
+      "name": "pepsi",
+      "Price": "29",
+      "image": "http://127.0.0.1:5500/images/pepsi.jpg"
+    },
+    {
+      "id": "58aa",
+      "name": "Sprite",
+      "Price": "29",
+      "image": "http://127.0.0.1:5500/images/sprite.jpg"
+    },
+    {
+      "id": "6ed6",
+      "name": "Chocolava Cake",
+      "Price": "99",
+      "image": "http://127.0.0.1:5500/images/chocolava.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "fd64",
+      "username": "Dhruv123",
+      "email": "ravi45@gmail.com",
+      "password": "esgtfvhnj kml,;"
+    }
+  ],
+  "order": [
+    {
+      "id": "def1",
+      "name": "Berger Hut Supreme Burge",
+      "Price": "499",
+      "image": "http://127.0.0.1:5500/images/burger%209.jpg"
+    },
+    {
+      "id": "edfd",
+      "name": "Blaze Bomb Burger(spicy BBQ)",
+      "Price": "275",
+      "image": "http://127.0.0.1:5500/images/burger%208.jpg"
+    },
+    {
+      "id": "bbb0",
+      "name": "cocacola",
+      "Price": "29",
+      "image": "http://127.0.0.1:5500/images/cok.jpg"
+    },
+    {
+      "id": "6ed6",
+      "name": "Chocolava Cake",
+      "Price": "99",
+      "image": "http://127.0.0.1:5500/images/chocolava.jpg"
+    }
+  ]
+}
